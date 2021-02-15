@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TimerViewModel</string>
+    <string name="tvTimer">Segundos:</string>
+</resources>
